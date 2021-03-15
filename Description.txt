@@ -1,0 +1,19 @@
+***************************************************************ABSTRACT*******************************************************
+ -->automatic control is the use of various control system for operating any equipment or device such as a remote controlled (toy) car .
+
+-->other useful applications with minimal or reduced human interventions. 
+
+-->Arduino Uno , an H-bridge L293D IC for motor controller , and four electric DC motors are used to move the automobile.
+ 
+-->The  objectives  of  this  project  are  controlling  the  car  wireless communication  system.
+
+-->The test result shows that the controlled car can move in any direction.
+
+-->However, the performance depends on the device signal strength where the maximum testing range is only about 20 meters’ distance from 
+the user’s location.
+
+ ************************************************Conclusion:**************************************************************************
+
+-->Possibilities of wireless technology are    limitless and many tests are in progress to support autonomous driving, connected vehicles and smart 
+car technologies. Wireless robots are deployed in the manufacturing plants to support production, increase efficiency and precision. Effective 
+use of modern wireless technologies integrated with automobiles will offer a much convenient and safer road trip in future.
